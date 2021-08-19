@@ -4,15 +4,16 @@
 
 ## Analise de dados Airbnb - Porto (Portugal)
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
+O [Airbnb](https://www.airbnb.com.br/) já é considerado como sendo a **maior empresa hoteleira da atividade**. Ah, o detalhe é que ela **não possui nenhum hotel!**
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+No final de 2018, a Startup fundada a 10 anos atrás, já havia **hospedado mais de 300 milhões** de pessoas ao redor de todo o mundo, desafiando as redes hoteleiras tradicionais.
 
-**Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
+Umas das iniciativas do Airbnb é disponibilizar dados do site, para algumas das principais cidades do mundo. Por meio do portal [Inside Airbnb](http://insideairbnb.com/get-the-data.html), é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de Data Science.
+
+**Nesse notebook, iremos analisar os dados referente a cidade de Porto em Portugal, e ver quais insights pode ser extraídos a partir de dados brutos.**
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/thiagovillani)
+* [Portfólio de Projetos](https://github.com/villani31/Data_Science)
 
 
