@@ -12,7 +12,7 @@ Umas das iniciativas do Airbnb é disponibilizar dados do site, para algumas das
 
 **Nesse notebook, iremos analisar os dados referente a cidade de Porto em Portugal, e ver quais insights pode ser extraídos a partir de dados brutos.**
 
-[Clique aqui para acesso ao projeto.](https://github.com/villani31/Analise_Airbnb/blob/main/Projeto%20-%20Analise%20de%20dados%20Airbnb.ipynb)
+[Clique aqui para acesso ao projeto.](https://github.com/villani31/Analise_Airbnb/blob/main/Projeto%20-%20Analise%20de%20dados%20Airbnb_V2.ipynb)
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
